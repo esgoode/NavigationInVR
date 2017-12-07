@@ -1,0 +1,4 @@
+# Mentor Section
+We have built these movement methods to support Professor Bodenheimer and Richard Paris’ research. Richard is currently working on his dissertation that involves different movement methods in large virtual environments. We are currently in the process of porting our movement methods over to Professor Bodenheimer’s and Richard’s large scale environments. We hope these methods can be used to further their research.
+
+Additionally, we are in the process of testing our methods on a few key metrics including speed of finding an object, navigation, and nausea. These tests will aid our mentor in their research as they look into the various navigation methods out there. A key problem in Virtual Reality is the movement in large environments, and we hope that our contribution will aid the department in their wok on studying this problem.
