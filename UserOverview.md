@@ -13,6 +13,8 @@ The interface was constructed so users could easily switch between our various m
 * Ski: Hold the left and right Hand Triggers to pull yourself through the environment. You can use one or both controllers.
 * Earth Soar: Press Left Trigger to Teleport Up High. Use Left Thumbstick to Move through the Environment
 
+![UI Pic](UIPic.png)
+
 
 # Purpose
 
