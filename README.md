@@ -34,7 +34,7 @@ For development, make sure you have at least Unity 2017.2.0f3. Some movement tec
 ## [Mentor Section](MentorSection.md)
 
 ## Video Walkthrough
-The video walkthrough can be found with and without voiceover (here)[https://drive.google.com/open?id=1DbJVpSEKLPxBKdanP_Ku8KKoG0WEPFm_]. Google Drive was used because Github only allows up to 100MB files.
+The video walkthrough can be found with and without voiceover [here](https://drive.google.com/open?id=1DbJVpSEKLPxBKdanP_Ku8KKoG0WEPFm_). Google Drive was used because Github only allows up to 100MB files.
 
 ## Outreach
-A playable build is included in this repo. You can find it [here](DevEnvironment). A development build can be found on Google Drive (here)[https://drive.google.com/open?id=17f-XhJ3JbQbcENuHUnfQa2xR5cuKmCtF]. Google Drive was used because Github only allows up to 100MB files.
+A playable build is included in this repo. You can find it [here](DevEnvironment). A development build can be found on Google Drive [here](https://drive.google.com/open?id=17f-XhJ3JbQbcENuHUnfQa2xR5cuKmCtF). Google Drive was used because Github only allows up to 100MB files.
