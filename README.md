@@ -29,11 +29,12 @@ OS: Windows XP SP2+, Mac OS X 10.9+, Ubuntu 12.04+, SteamOS+.
 ### Warnings
 For development, make sure you have at least Unity 2017.2.0f3. Some movement techniques may induce slight nausea and dizziness in users, especially when strafing (moving in a direction other than directly forward). Lower the speed for the movement methods that cause discomfort and monitor user reactions.
 
-## [Future Development](FutureDeveloper.md)
+## [Future Development](FutureDevelopment.md)
 
 ## [Mentor Section](MentorSection.md)
 
-## [Video Walkthrough](#)
+## Video Walkthrough
+The video walkthrough can be found with and without voiceover (here)[https://drive.google.com/open?id=1DbJVpSEKLPxBKdanP_Ku8KKoG0WEPFm_]. Google Drive was used because Github only allows up to 100MB files.
 
 ## Outreach
-A playable build is included in this repo. You can find it [here](#)
+A playable build is included in this repo. You can find it [here](DevEnvironment). A development build can be found on Google Drive (here)[https://drive.google.com/open?id=17f-XhJ3JbQbcENuHUnfQa2xR5cuKmCtF]. Google Drive was used because Github only allows up to 100MB files.
