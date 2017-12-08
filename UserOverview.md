@@ -19,5 +19,3 @@ The interface was constructed so users could easily switch between our various m
 # Purpose
 
 The purpose of our project was to create and evaluate different movement methods. Virtual reality is a wonderful tool, but for large environments, movement is limited. The main reasons being that users often work in a  confined space, movement in large environments can be exhausting, and certain speed movement features can cause nausea and other symptoms. Our aim in this project was to develop methods that already existed or were novel to this project and evaluate them on a number of metrics. These metrics include speed, induced nausea, and others. We are currently in the evaluation process and will have the evaluation documentation complete Tuesday December 12th.
-
-# Accessible Language?
